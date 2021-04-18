@@ -1,7 +1,9 @@
 ---
-sort: 4
+sort: 1
 ---
 
-# Contributing
+# Installation
+
+There are two ways to install:
 
 {% include list.liquid %}
